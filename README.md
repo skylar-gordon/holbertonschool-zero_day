@@ -1,10 +1,10 @@
 # Hello Holberton!
 
-## This is a project to demonstrate that I know how to use vi.
+## This is a ~~project~~ *repository of projects* ~~to~~ *which* demonstrate that I know how to use vi*, emacs, and vagrant*.
 
-### I am making this README file with vi.
+### I ~~am making~~ *made the first version of* this README file with vi*, and added these edits with emacs, all while using vagrant!*.
 
-#### Hopefully, that means I know how to use vi, even if I can't pronounce it... ####
+#### Hopefully, that means I know how to use vi*, emacs, and vagrant.*~~, even if I can't pronounce it...~~ ####
 
 ##### Thank you for watching, see you next time. ######
 
